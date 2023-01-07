@@ -1,0 +1,224 @@
+/* You can not modify anything from the HTML file */
+/* You can only modify the CSS file */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #fff;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+} 
+
+.navbar-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 4rem;
+}
+
+img[alt="brand-logo"]{
+    width: 110px;
+    
+ }
+
+ section[aria-label="navbar"]{
+    padding: 2rem 1rem;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    flex-direction: row;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+}
+
+ul li:first-child{
+    order: -2;
+}
+
+ul li:nth-child(3){
+    order: -1;
+}
+
+li {
+    list-style: none;
+    font-size: 1.6rem;
+}
+
+.list li{
+    /* position: relative; */
+    display: inline-block;
+    cursor: pointer;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+
+.list li:hover::after{
+    width: 70%;
+}
+
+.list li:first-child::after{
+    width: 70%;
+}
+
+.button-group{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nav-button{
+    background-color: transparent;
+    font-family: "Poppins",sans-serif;
+    font-size: 1.4rem;
+    padding: 5px 40px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.hero-container{
+    width: 100%;
+    min-height: calc(100vh - 80px);
+    position: relative;
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.square,.star,.globe{
+    position: absolute;
+    display: none;
+}
+
+.star{
+    display: inline-block;
+    top: 4%;
+    /* width: 15%; */
+    right: 4%;
+}
+
+.star:nth-child(2){
+    top: 83%;
+    left: 47%;
+    width: 5%;
+}
+
+
+
+.star img{
+    width: 55%;
+
+}
+
+.globe{
+    display: inline-block;
+    top: 1px;
+    left: 55%;
+}
+
+.globe img{
+    width: 45px;
+}
+
+img[alt="person-hero-iamge"]{
+    
+    max-width: 350px;
+    object-fit: cover;
+}
+
+.square{
+    display: inline-block;
+    z-index: -1;
+    top: 40%;
+    left: 6%;
+    translate: 0 -20%;
+}
+
+div img[alt="person-hero-iamge"]{
+    position: absolute;
+    top: 53%;
+    left: 4%;
+    translate: 0 -57%;
+}
+
+.square img{
+    width: 400px;
+}
+
+.hero-container-right{
+    width: 60%;
+    display: flex;
+    gap: 4rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+    padding-inline: 1rem;
+}
+
+.hero-heading{
+    font-size: 5rem;
+}
+
+.hero-description{
+    font-size: 1.4rem;
+    font-family: "Poppins";
+    max-width: 600px;
+    margin-inline: auto;
+}
+
+.button-email,.button-join{
+    font-family: "Orbitron";
+    font-size: 1.4rem;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+}
+
+.button-email{
+    background-color: transparent;
+    padding: 1rem 4rem;
+}
+
+.button-join{
+    background-color: #000000;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
+.contact-heading{
+    font-size: 1.4rem;
+    font-family: "Poppins";
+    font-weight: 400;
+    margin-top: 4rem;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 1rem;
+    margin-top: 1rem;
+
+}
+
+.icons span img{
+    width: 30px;
+    cursor: pointer;
+}

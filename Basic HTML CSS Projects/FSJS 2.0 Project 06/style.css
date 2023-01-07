@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,600;0,700;0,800;1,600&family=Roboto:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 54.5%;
+}
+
+body{
+    background-color: #292524;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    /* margin: 3rem 15rem;
+    height: 80%;
+    width: 70%; */
+    padding: 1rem;
+    margin: 1rem 20rem 2rem 28rem;
+}
+
+/* Navbar */
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 15rem;
+}
+
+.logo{
+    height: 30px;
+    width: 80px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+li:nth-child {
+    margin-bottom: 100px;
+}
+
+li{
+    list-style: none;
+}
+
+button{
+    background: transparent;
+    color: #bf7c69;
+    padding: 8px 15px;
+    border: 1px solid #bf7c69;
+    border-radius: 7px;
+}
+
+/* Hero Section */
+
+.section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1rem auto;
+    gap: 2px;
+    align-items: center;
+    
+}
+
+h1{
+    font-size: 4.2rem;
+    width: 70%;
+    
+}
+
+
+.para{
+    width: 90%;
+    margin-right: 15rem;
+    /* padding-left: 5rem; */
+}
+
+p{
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin: 4rem 0rem 4rem 19rem;
+}
+
+.banner{
+    width: 700px; 
+    height: 350px;
+    max-width: 100%;
+}
