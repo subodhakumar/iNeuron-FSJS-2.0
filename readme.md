@@ -19,10 +19,15 @@
 <br>
 <br>
 
-## Projects
+## Projects (Basic HTML/CSS)
 1. SEO Master   [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0/tree/main/Basic%20HTML%20CSS%20Projects/FSJS%202.0%20Project%2001) <br>
 2. Crypto Market [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0/tree/main/Basic%20HTML%20CSS%20Projects/FSJS%202.0%20Project%2002) <br>
 3. Fashion Hub [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0/tree/main/Basic%20HTML%20CSS%20Projects/FSJS%202.0%20Project%2003) <br>
 4. Calm [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0/tree/main/Basic%20HTML%20CSS%20Projects/FSJS%202.0%20Project%2004) <br>
 5. Medifine [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0/tree/main/Basic%20HTML%20CSS%20Projects/FSJS%202.0%20Project%2005) <br>
 6. Justice [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0/tree/main/Basic%20HTML%20CSS%20Projects/FSJS%202.0%20Project%2006) <br>
+
+<br>
+
+## Project (Full Landing Page)
+1. Credit Card [Link]()

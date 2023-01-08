@@ -1,0 +1,443 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,600;0,700;0,800;1,600&display=swap");
+/* Subodha Kumar Mohanty */
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  background-color: #000;
+  overflow-x: hidden;
+}
+
+html{
+  /* font-size: 90%; */
+}
+
+/* Navbar */
+
+nav {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 6rem;
+}
+
+.feature > ul {
+  display: flex;
+  gap: 2rem;
+}
+
+.feature-1 > ul {
+  display: flex;
+  gap: 0.5rem;
+}
+
+li {
+  list-style: none;
+}
+
+.feature > ul > li:hover {
+  color: #c045c4;
+  cursor: pointer;
+}
+
+.feature-1 > ul > li:hover {
+    color: #c045c4;
+    cursor: pointer;
+  }
+
+
+.feature-1 > ul > li:nth-child(3) {
+  padding-left: 20px;
+}
+
+.feature-1 > ul > li:nth-child(4) {
+  position: absolute;
+  right: 2.5rem;
+}
+
+/* Card Banner Section 1 */
+
+.card-banner1 {
+  color: #fff;
+  margin: 2rem 4rem;
+  position: relative;
+}
+
+h1 {
+  width: 70%;
+  font-size: 4.1rem;
+  font-weight: 500;
+  padding-top: 30px;
+}
+
+.one-card {
+  color: #c045c4;
+  font-weight: 600;
+}
+
+.join {
+  width: 50%;
+  font-weight: 200;
+  font-size: 1.2rem;
+}
+
+.get-started {
+  display: flex;
+  padding: 0;
+  margin-top: 70px;
+}
+
+.get-started > li:hover {
+  color: #c045c4;
+  cursor: pointer;
+}
+
+.section1-left > .get-started > li:nth-child(2) {
+  font-weight: 600;
+  position: relative;
+  right: 25px;
+}
+
+.numbers {
+  display: flex;
+  padding: 0;
+  margin-top: 50px;
+}
+
+.nbs {
+  font-size: 3.3rem;
+  font-weight: 600;
+}
+
+.plus {
+  color: #c045c4;
+}
+
+.quote {
+  padding: 13px;
+  margin-left: 10px;
+  /* line-break: normal; */
+  width: 100px;
+  font-size: 1.1rem;
+}
+
+.numbers > li:nth-child(4) {
+  margin-left: 20px;
+}
+
+.front-card {
+  position: absolute;
+  top: 40rem;
+  left: 16rem;
+}
+
+.back-card {
+  position: relative;
+  top: 37rem;
+  left: 5rem;
+}
+
+.section1-right {
+  position: absolute;
+  bottom: 40rem;
+  left: 22rem;
+}
+
+/* Logo Section */
+
+.logo1 {
+  background-color: #2e2c2e;
+  display: flex;
+  justify-content: space-around;
+  padding: 4rem 6rem;
+}
+
+/* Service Section */
+
+.service {
+  color: #fff;
+  margin: 2rem 4rem 10rem 4rem;
+}
+
+.service-up {
+  display: flex;
+  align-items: center;
+}
+
+.heading-two {
+  width: 64%;
+  margin-right: 10rem;
+}
+
+.heading-two > h2 {
+  font-size: 4rem;
+  font-weight: 500;
+}
+
+.heading-two > h2 > span {
+  font-weight: 600;
+  color: #c045c4;
+}
+
+.para {
+  width: 34%;
+}
+
+.para > p {
+  font-weight: 100;
+}
+
+.advantage {
+  display: flex;
+  justify-content: space-between;
+}
+
+.advantage > li {
+  border: 1px solid #fff;
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  background-color: #4a4640;
+  /* border-width: 3px;
+  border-style: solid;
+  border-image: linear-gradient(to bottom, #FFFFFF 3.9%, rgba(0, 0, 0, 0) 97.7%); */
+}
+
+.access {
+  background: linear-gradient(to right, black, gray);
+}
+
+.easy {
+  margin: auto 38px;
+}
+
+.advantage > li > p {
+  font-size: 1.2rem;
+}
+
+.advantage > li:nth-child(odd) {
+  margin-top: 55px;
+  background-color: #242321;
+}
+
+.photo {
+  margin-top: 30px;
+}
+
+/* Card Banner Section 2 */
+
+.card-banner2 {
+  background-color: #fff;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.card-heading-two {
+  font-size: 3.2rem;
+  font-weight: 530;
+  margin: 2rem 18rem;
+  padding-top: 4rem;
+}
+
+.span-two {
+  color: #c045c4;
+  font-weight: 700;
+}
+
+.para-two {
+  margin: auto 22rem;
+}
+
+.image-two {
+  position: relative;
+  bottom: 2.5rem;
+}
+
+/* Comment Section */
+
+.comment-section {
+  color: #fff;
+  
+}
+
+.comment-heading {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  margin: auto 14rem;
+  text-align: center;
+}
+
+.comment-span {
+  color: #c045c4;
+  font-weight: 600;
+}
+
+.comment-para {
+  margin: auto 24rem;
+  text-align: center;
+}
+
+.light {
+  font-size: 0.8rem;
+}
+
+h4 {
+  font-size: 1rem;
+  font-weight: 300;
+  
+}
+
+.grid {
+    line-height: 15px;
+  margin: auto 13rem 4rem 15rem;
+  padding-top: 4rem;
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  row-gap: 2rem;
+  column-gap: 0.1rem;
+  /* text-align: center; */
+}
+
+.comment-grid {
+    background-color: #1c1a1a;
+    /* margin: auto 4rem; */
+    padding: 1rem;
+  border: 1px solid #fff;
+  height: 170px;
+  width: 340px;
+}
+
+.grid-one{
+    background: linear-gradient(to right, black, gray);
+    /* margin: auto 4rem; */
+    padding-bottom: 1rem;
+  border: 1px solid #fff;
+  height: 160px;
+  width: 340px;
+}
+
+.long{
+    height: 12px;
+    width: 60px;
+    border-radius: 12px;
+    background-color: #c045c4;
+}
+.round{
+    background-color: #575151;
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+}
+
+.long:hover{
+    cursor: pointer;
+    background-color: aqua;
+}
+
+.round:hover{
+    cursor: pointer;
+    background-color: aqua;
+}
+
+.tab{
+    display: flex;
+    gap: 7px;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+
+/* Designing Section */
+
+.design{
+    background-color: #c045c4;
+}
+
+.white-text{
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 600;
+    text-align: center;
+    margin: auto 7rem;
+}
+
+.black-text{
+    color: #000;
+}
+
+.get-start{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    
+}
+
+.start{
+    font-size: 1rem;
+    font-weight: 600;
+    position: relative;
+    right: 20px;
+  
+}
+
+.start:hover{
+  color: aqua;
+  cursor: pointer;
+}
+
+.rectangle-right{
+  position: absolute;
+  z-index: 0;
+  
+}
+.rectangle-left{
+  position: absolute;
+  z-index: 1;
+
+}
+.diamond-right{
+  position: absolute;
+  right: 0;
+  z-index: 3;
+}
+.diamond-left{
+  position: absolute;
+  left: 0;
+  z-index: 1;
+  
+}
+
+.relate{
+  position: relative;
+  z-index: 5;
+  top: 7rem;
+}
+
+.slide {
+  position: relative;
+  bottom: 17rem;
+}
+
+footer{
+  position: relative;
+  top: 22rem;
+  display: flex;
+  color: #fff;
+  gap: 16rem;
+  margin: 0 4rem 26rem 4rem;
+}
+
+.footer-li{
+  display: flex;
+  gap: 2rem;
+}
+
+.footer-li>li{
+  font-size: 0.8rem;
+}
+
