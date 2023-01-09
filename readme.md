@@ -29,5 +29,9 @@
 
 <br>
 
+## Tailwind CSS Project
+1. VS Code Clone [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Tailwind%20CSS%20Project)
+
+
 ## Project (Full Landing Page)
 1. Credit Card [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/01_Project-%20Credit%20Card%20Landing%20Page)
