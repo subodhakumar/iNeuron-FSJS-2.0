@@ -13,7 +13,8 @@
 8. A Short note on Git and Github  [Link](https://subodhakumar.hashnode.dev/a-short-note-on-git-and-github) <br>
 9. An Introduction to Javascript [Link](https://subodhakumar.hashnode.dev/an-introduction-to-javascript) <br>
 10. Variables in Javascript [Link](https://subodhakumar.hashnode.dev/javascript-basics-variables) <br>
-11. Datatypes in Javascript [Link](https://subodhakumar.hashnode.dev/data-types-in-javascript-you-must-know)
+11. Datatypes in Javascript [Link](https://subodhakumar.hashnode.dev/data-types-in-javascript-you-must-know) <br>
+12. Basic Operator, Math & Date [Link](https://subodhakumar.hashnode.dev/basic-opertors-maths-date-in-javascript)
 
 
 <br>
@@ -30,7 +31,7 @@
 <br>
 
 ## Tailwind CSS Project
-1. VS Code Clone [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Tailwind%20CSS%20Project)
+1. VS Code Clone [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Tailwind%20CSS%20Project) <br> <br>
 
 
 ## Project (Full Landing Page)
