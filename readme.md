@@ -14,7 +14,8 @@
 9. An Introduction to Javascript [Link](https://subodhakumar.hashnode.dev/an-introduction-to-javascript) <br>
 10. Variables in Javascript [Link](https://subodhakumar.hashnode.dev/javascript-basics-variables) <br>
 11. Datatypes in Javascript [Link](https://subodhakumar.hashnode.dev/data-types-in-javascript-you-must-know) <br>
-12. Basic Operator, Math & Date [Link](https://subodhakumar.hashnode.dev/basic-opertors-maths-date-in-javascript)
+12. Basic Operator, Math & Date [Link](https://subodhakumar.hashnode.dev/basic-opertors-maths-date-in-javascript) <br>
+13. Javascript Conditional Satement [Link](https://subodhakumar.hashnode.dev/conditional-statements-in-javascript-if-if-else-if-elseif-switch-case-and-ternary)
 
 
 <br>
