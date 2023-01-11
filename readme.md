@@ -36,4 +36,5 @@
 
 ## Project (Full Landing Page)
 1. Credit Card [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/01_Project-%20Credit%20Card%20Landing%20Page) <br>
-2. Hosting Site [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/02_Project-%20Hosting%20Site%20Landing%20Page)
+2. Hosting Site [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/02_Project-%20Hosting%20Site%20Landing%20Page) <br>
+3. Gaming Landing Page [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/03_Project-%20Gaming%20Landing%20Page)
