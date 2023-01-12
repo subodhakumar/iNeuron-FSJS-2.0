@@ -1,0 +1,474 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,600;0,700;0,800;1,600&display=swap");
+
+/* Subodha Kumar Mohanty */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Navbar and Home Banner Page */
+
+header {
+  background: url(./Photos/mainBackground.png),
+    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5));
+  height: 120vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 6rem;
+}
+
+.nav-items > ul {
+  display: flex;
+  justify-content: space-around;
+  gap: 2rem;
+}
+
+.nav-items > ul > li {
+  list-style: none;
+  color: #fff;
+}
+
+.nav-items > ul > li:hover {
+  color: #ce0c0c;
+  cursor: pointer;
+}
+
+.hr {
+  padding: 0 4rem;
+}
+
+.header-details {
+  color: #fff;
+  width: 60%;
+  padding: 7rem 6rem 0 6rem;
+}
+
+h1 {
+  font-size: 3.2rem;
+  line-height: 1.2;
+}
+
+.header-para {
+  font-size: 0.9rem;
+  padding: 2rem 0;
+  width: 60%;
+}
+
+.header-btn {
+  padding: 12px 28px;
+  background-color: #6042c7;
+  border: none;
+  border-radius: 20px;
+  color: #fff;
+}
+
+.header-btn:hover {
+  background-color: #fff;
+  color: #6042c7;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+/* Logo Name Section */
+
+.logo-name {
+  position: absolute;
+  left: 3rem;
+  bottom: -10rem;
+}
+
+.logo-name > ul {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #fff;
+  padding: 2.5rem 7rem;
+  background-color: #fff;
+  border-radius: 20px;
+  gap: 3rem;
+}
+
+.logo-name > ul > li {
+  list-style: none;
+}
+
+/* Multiple Home Photo Section */
+
+.home {
+  background-color: #e6eded;
+}
+
+.home-h2 {
+  text-align: center;
+  padding: 6rem 28rem;
+  font-size: 2.6rem;
+}
+
+/* Home Down */
+
+.home-down {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 12rem;
+  column-gap: 4rem;
+  padding: 2rem 6rem;
+}
+
+.card {
+  height: 350px;
+  width: 300px;
+  border: 1px solid black;
+  position: relative;
+  border-radius: 20px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home1 {
+  background: url(./Photos/cardImage1.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home2 {
+  background: url(./Photos/cardImage2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top: 2rem;
+}
+
+.home3 {
+  background: url(./Photos/cardImage3.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top: 4rem;
+}
+
+.home4 {
+  background: url(./Photos/cardImage4.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home5 {
+  background: url(./Photos/cardImage5.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  bottom: 2rem;
+}
+
+.home6 {
+  background: url(./Photos/cardImage6.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  bottom: 4rem;
+}
+
+.home7 {
+  background: url(./Photos/cardImage7.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  bottom: 6rem;
+}
+
+.home8 {
+  background: url(./Photos/cardImage8.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  bottom: 4rem;
+}
+
+.home9 {
+  background: url(./Photos/cardImage9.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  bottom: 2rem;
+}
+
+.home-details {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  border: 1px solid #fff;
+  background-color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 20px;
+  position: absolute;
+  bottom: -2.2rem;
+  left: 1.4rem;
+}
+
+.home-h4 {
+  font-weight: 600;
+}
+
+.home-h5 {
+  color: #6042c7;
+}
+
+.home-btn {
+  background-color: #6042c7;
+  border: none;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 20px;
+}
+
+.home-btn:hover {
+  background-color: blue;
+  cursor: pointer;
+}
+
+
+/* Modern Trendy Affordable Section */
+
+.trendy{
+  display: flex;
+  background-color: #e6eded;
+  gap: 3rem;
+  padding: 2rem 0;
+  justify-content: space-between;
+  /* align-items: flex-start; */
+}
+
+.trendy-left{
+  width: 50%;
+  position: relative;
+}
+
+.trendy-bg{
+  /* height: 350px;
+  width: 300px; */
+  /* background: url(./Icons/featureImageBg1.svg); */
+
+}
+
+.trendy-home{
+  height: 390px;
+  width: 391px;
+  background: url(./Photos/featuresImage1.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px;
+  position: absolute;
+  bottom: 7rem;
+  left: 7rem;
+}
+
+.svg1{
+  width: 550px;
+  height: auto;
+}
+
+.trendy-right{
+  width: 50%;
+  padding-top: 2rem;
+  line-height: 1.5;
+
+}
+
+.trendy-h2{
+  font-size: 2.8rem;
+}
+
+.trendy-para{
+padding: 2rem 10rem 2rem 0;
+line-height: 1.6;
+font-size: 0.9rem;
+}
+
+.trendy-btn{
+background-color: #6042c7;
+color: #fff;
+font-weight: 500;
+border: none;
+padding: 12px 24px;
+border-radius: 20px;
+}
+
+.trendy-btn:hover{
+  background-color: blue;
+  cursor: pointer;
+}
+
+/* Unique Home Section */
+
+.unique{
+  display: flex;
+  background-color: #e6eded;
+  gap: 3rem;
+  padding: 2rem 0;
+  justify-content: space-between;
+}
+
+.unique-left{
+  width: 50%;
+  padding: 2rem 10rem 0 4rem;
+  line-height: 1.5;
+}
+
+.unique-h2{
+  font-size: 2.8rem;
+}
+
+.unique-para{
+  padding: 2rem 0rem 2rem 0;
+line-height: 1.6;
+font-size: 0.8rem;
+}
+
+.unique-right{
+  width: 60%;
+  position: relative;
+}
+
+.unique-home{
+  height: 430px;
+  width: 430px;
+  background: url(./Photos/featuresImage2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px;
+  position: absolute;
+  bottom: 9rem;
+  left: 3.4rem;
+}
+
+/* Subscribe Section */
+
+.subscribe-main{
+  background-color: #e6eded;
+  padding: 2rem 4rem;
+  
+}
+
+.subscribe{
+  background-color: #6042c7;
+  padding: 4rem 6rem;
+  color: #fff;
+  text-align: center;
+  border-radius: 40px;
+}
+
+.subscribe-h2{
+  font-size: 2.7rem;
+  padding: 0 8rem;
+}
+
+.subscribe-para{
+  font-size: 0.8rem;
+  padding: 2rem 14rem;
+}
+
+.form{
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.mail{
+  display: flex;
+  gap: 1rem;
+  background-color: #856fd0;
+  padding: 5px 70px 5px 10px;
+  border-radius: 20px;
+}
+
+input{
+  background-color: #856fd0;
+  border: none;
+  color: #fff;
+}
+
+::-webkit-input-placeholder {
+  color: #fff;
+}
+
+.subscribe-btn{
+background-color: #fff;
+color: #6042c7;
+padding: 0 20px;
+border: none;
+border-radius: 20px;
+font-weight: 600;
+}
+
+.subscribe-btn:hover{
+  color: #fff;
+  background-color: #856fd0;
+  cursor: pointer;
+}
+
+/* Footer Section */
+
+footer{
+  background-color: #e6eded;
+  padding: 2rem 4rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-left{
+width: 50%;
+line-height: 3rem;
+padding: 2rem;
+}
+
+.footer-para{
+  padding: 2rem 14rem 0 0;
+  line-height: 1.5;
+}
+
+.social{
+  display: flex;
+  gap: 1.2rem;
+}
+
+.footer-right{
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  line-height: 3;
+  padding-right: 2rem;
+}
+
+.footer-right>div>ul>li{
+  list-style: none;
+}
+
+.footer-right>div>ul>li:hover{
+  color: #6042c7;
+  cursor: pointer;
+}
