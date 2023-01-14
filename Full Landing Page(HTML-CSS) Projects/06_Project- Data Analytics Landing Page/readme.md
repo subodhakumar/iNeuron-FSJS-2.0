@@ -1,5 +1,10 @@
-# Replicate the Following Output
+# Output of the Project 
+<br>
 
-`Assests are Provided!`
+## Tech Stacks
+1. HTML
+2. CSS
 
-![Project 6](./Data%20Analytics%20Landing%20page.png)
+# Screenshot
+
+![Project 5](./Data%20Analytics%20Landing%20page.png)
