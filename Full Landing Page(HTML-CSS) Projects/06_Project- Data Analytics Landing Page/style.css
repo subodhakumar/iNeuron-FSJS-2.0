@@ -1,0 +1,394 @@
+/* Subodha Kumar Mohanty */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header and Navbar */
+
+header{
+    height: 100vh;
+    background: linear-gradient(to bottom, #fff , #dae7ed);
+    clip-path: polygon(0% 0.25%, 100% 0%, 100% 81%, 0% 92.75%);
+}
+
+/* Navbar */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 7rem;
+}
+
+.nav-items>ul{
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 3rem;
+    align-items: center;
+}
+
+.nav-items>ul>li{
+    list-style: none;
+    font-weight: 600;
+}
+
+.nav-items>ul>li:hover{
+    color: #7a2ac9;
+    /* font-weight: 600; */
+    cursor: pointer;
+}
+
+.nav-btn{
+    background-color: transparent;
+    border: 1px solid #7a2ac9;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #7a2ac9;
+}
+
+.nav-btn:hover{
+    background-color: #7a2ac9;
+    color: #fff;
+    cursor: pointer;
+}
+
+.header-menu{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.header-left{
+    width: 50%;
+padding-left: 7rem;
+}
+
+.header-p1{
+    color: #7a2ac9;
+    background-color: #dac7ed;
+    padding: 8px 20px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.header-span{
+    text-decoration-line: underline;
+}
+
+.header-span:hover{
+    cursor: pointer;
+}
+
+h1{
+    font-size: 2.2rem;
+    padding-right: 9rem;
+    padding-top: 1rem;
+    line-height: 1.4;
+}
+
+.header-p2{
+    color: #39383b;
+    font-size: 1rem;
+    padding: 1rem 2rem 1rem 0;
+}
+
+.header-btn1{
+    background-color: #7a2ac9;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.header-btn1:hover{
+    background-color: #dac7ed;
+    color: #7a2ac9;
+    cursor: pointer;
+}
+
+.header-btn2{
+    background-color: #fff;
+    border-radius: 20px;
+    border: none;
+    color: #7a2ac9;
+    padding: 10px 30px;
+    
+}
+
+.header-btn2:hover{
+    background-color: #7a2ac9;
+    color: #fff;
+    cursor: pointer;
+}
+
+.header-right{
+    width: 50%;
+}
+
+/* Action Section */
+
+.action{
+    text-align: center;
+    padding: 4rem 7rem;
+}
+
+
+
+.eye{
+    display: flex;
+    justify-content: center;
+    color: #7a2ac9;
+    font-weight: 600;
+    gap: 10px;
+    background-color: #dac7ed;
+    margin: 2rem 28rem;
+    border-radius: 20px;
+}
+
+.action-para{
+    color: #39383b;
+    padding: 2rem 10rem;
+}
+
+.action-down{
+    display: flex;
+    gap: 2rem;
+}
+
+h4{
+    padding: 1rem 0;
+}
+
+.action-p{
+    color: #39383b;
+}
+
+/* Launch Section */
+
+.launch{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 7rem;
+}
+
+.launch-left{
+    width: 50%;
+
+}
+
+.launch-right{
+    width: 50%;
+}
+
+.product p{
+    background-color: #dac7ed;
+    display: flex;
+    align-items: center;
+    color: #7a2ac9;
+    font-weight: 600;
+    padding: 7px 0px;
+    gap: 10px;
+    border-radius: 20px;
+    justify-content: space-around;
+    margin-right: 20rem;
+    white-space: nowrap;
+}
+
+.launch-h2{
+    padding: 1rem 0;
+}
+
+.launch-para{
+    color: #39383b;
+    padding: 0rem 4rem 0 0;
+}
+
+/* Data Section */
+
+.data{
+    display: flex;
+    align-items: center;
+    padding: 2rem 2rem 2rem 7rem;
+}
+
+.data-left{
+    width: 50%;
+}
+
+.praduct-details p{
+    background-color: #dac7ed;
+    display: flex;
+    align-items: center;
+    color: #7a2ac9;
+    font-weight: 600;
+    padding: 7px 8px;
+    margin-right: 12rem;
+    justify-content: flex-start;
+    gap: 10px;
+    border-radius: 20px;
+    white-space: nowrap;
+}
+
+/* Comment and Logo Section */
+
+.comment{
+    text-align: center;
+    padding: 0 7rem 2rem;
+}
+
+.comment-para{
+    font-size: 1.3rem;
+    padding: 1rem 5rem 2rem;
+}
+
+.hr{
+    padding: 2rem 0;
+}
+
+.logos{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Sign Up Section */
+
+.signup{
+    display: flex;
+    gap: 4rem;
+    padding: 4rem 7rem;
+}
+
+
+
+.signup-left{
+    width: 50%;
+    padding-right: 6rem;
+}
+
+h3{
+    font-size: 1.7rem;
+}
+
+.trust{
+    white-space: nowrap;
+    padding: 2rem 0;
+    margin-right: 1rem;
+}
+
+.trust-para{
+    text-align: center;
+}
+
+.trust-para::before{
+    background-color: #39383b;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    vertical-align: middle;
+    width: 150px;
+}
+
+.trust-para::after{
+    background-color: #39383b;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    vertical-align: middle;
+    width: 150px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 4rem;
+    column-gap: 2rem;
+}
+
+.signup-right{
+    width: 50%;
+    text-align: center;
+    display: grid;
+    row-gap: 1rem;
+    border-bottom: 20px solid #dac7ed;
+    border-left: 20px solid #dac7ed;
+    border-right: 20px solid #dac7ed;
+    padding: 0 2rem 2rem;
+    margin-right: 2rem;
+}
+
+#sbtn{
+    background-color: #7a2ac9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+#sbtn:hover{
+background-color: #dac7ed;
+color: #7a2ac9;
+font-weight: 600;
+cursor: pointer;
+}
+
+input{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #39383b   ;
+}
+
+.google{
+    text-align: center;
+}
+
+.login-span{
+    color: #7a2ac9;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+/* Footer Section */
+
+footer{
+    display: flex;
+    padding: 4rem 7rem;
+    gap: 2rem;
+}
+
+.socials{
+    width: 25%;
+}
+
+.footer-para{
+    font-size: 0.8rem;
+    padding: 1rem 2rem 1rem 0;
+}
+
+footer div ul li{
+    list-style: none;
+    line-height: 2;
+    font-size: 0.8rem;
+}
+
+footer div ul li:hover{
+    color: #7a2ac9;
+    cursor: pointer;
+}
+
+.email{
+    border: 1px solid #dac7ed;
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+
+.email input{
+    border: none;
+}
