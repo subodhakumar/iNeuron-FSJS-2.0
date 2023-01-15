@@ -2,7 +2,7 @@
 
 <br>
 
-## Assignments (Articles) 
+# Assignments (Articles) 
 1. Web, HTML and Brief on Server & Live Server    [Link](https://medium.com/@subodhamail/an-article-on-web-html-and-a-brief-about-server-live-server-apache-be2a84a0a25d) <br>
 1. CSS Selectors and its types    [Link](https://subodhakumar.hashnode.dev/a-brief-on-css-and-its-selectors) <br>
 1. Explaining CSS Box Model in Details [Link](https://subodhakumar.hashnode.dev/explaining-css-box-model-in-details) <br>
@@ -37,7 +37,7 @@
 1. VS Code Clone [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Tailwind%20CSS%20Project) <br> <br>
 
 
-## Project (Full Landing Page)
+## Full Landing Page Project
 1. Credit Card [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/01_Project-%20Credit%20Card%20Landing%20Page) <br>
 2. Hosting Site [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/02_Project-%20Hosting%20Site%20Landing%20Page) <br>
 3. Gaming Landing Page [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/03_Project-%20Gaming%20Landing%20Page) <br>
