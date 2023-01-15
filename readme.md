@@ -22,7 +22,8 @@
 <br>
 <br>
 
-## Projects (Basic HTML/CSS)
+## Projects <br>
+## Basic HTML/CSS <br>
 1. SEO Master   [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0/tree/main/Basic%20HTML%20CSS%20Projects/FSJS%202.0%20Project%2001) <br>
 2. Crypto Market [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0/tree/main/Basic%20HTML%20CSS%20Projects/FSJS%202.0%20Project%2002) <br>
 3. Fashion Hub [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0/tree/main/Basic%20HTML%20CSS%20Projects/FSJS%202.0%20Project%2003) <br>
