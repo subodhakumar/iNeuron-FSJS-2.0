@@ -18,7 +18,7 @@
 13. Javascript Conditional Satement [Link](https://subodhakumar.hashnode.dev/conditional-statements-in-javascript-if-if-else-if-elseif-switch-case-and-ternary) <br>
 14. Loops and Iteration in Javascript [Link](https://subodhakumar.hashnode.dev/loops-and-iteration-in-javascript) <br>
 15. Array and It's Methods [Link](https://subodhakumar.hashnode.dev/arrays-and-its-methods-in-javascript) <br>
-16. Function [Link]
+16. Function (Will write) [Link]
 
 
 <br>
