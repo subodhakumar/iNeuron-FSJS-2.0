@@ -44,5 +44,5 @@
 2. Hosting Site Landing Page [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/02_Project-%20Hosting%20Site%20Landing%20Page) <br>
 3. Gaming Landing Page [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/03_Project-%20Gaming%20Landing%20Page) <br>
 4. Real Estate Landing Page [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/04_Project-%20Real%20Estate%20Landing%20Page) <br>
-5. Beats Landing Page [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/05_Project-%20Beats%20Landing%20Page) <br>
+5. Beat Landing Page [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/05_Project-%20Beats%20Landing%20Page) <br>
 6. Data Analytics Landing Page [Link](https://github.com/subodhakumar/iNeuron-FSJS-2.0-Main/tree/main/Full%20Landing%20Page(HTML-CSS)%20Projects/06_Project-%20Data%20Analytics%20Landing%20Page)
